@@ -4,7 +4,7 @@ Author: Ivan Talijancic
 ## 📋 Use instrucctions
 To run this template project follow the next instrucctions:
 
-1. Download code from repo: [teplate](https://github.com/italijancic/pc-2024), take care of the brach that you are downloading.
+1. Download code from repo: [teplate](https://github.com/italijancic/pc-2024-template), take care of the brach that you are downloading.
 
 2. Unzip the code in the location that you want in your computer.
 
